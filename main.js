@@ -3,7 +3,7 @@ objects = [];
 status = "";
 
 function preload(){
-  img = loadImage('person.jpg');
+  img = loadImage('dog_cat.jpg');
 }
 
 
